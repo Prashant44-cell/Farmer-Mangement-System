@@ -1,0 +1,5 @@
+streamlit 
+sqlite3
+pandas
+requests
+ollama phi3
