@@ -1,2 +1,4 @@
-# Farmer-Mangement-System
- A streamlined, AI-assisted platform for managing farmer profiles, crop data, and real-time weather insights using Streamlit and SQLite. Designed for smart, efficient, and modern agriculture.
+🌾 Farmer Management System
+A user-friendly and efficient Farmer Management System designed to streamline and simplify farm data management, crop monitoring, and weather integration for modern agriculture.
+
+This project empowers farmers and agribusinesses to manage personal data, crop records, and environmental factors, all within an intuitive interface.
