@@ -36,25 +36,30 @@ Uses custom CSS for a visually appealing, user-friendly interface.
 *Secure Secrets Handling:
 API keys and sensitive data are managed securely using Streamlit secrets.
 
-
-**Dashboard**
-![image alt](Dashboard_Farm_management_system.png)
-
-
-![image alt]()
-
-![image alt]()
-
-![image alt]()
-
-![image alt]()
-
-
-
-
-
-
 *Bulk Data Upload:
 Supports CSV uploads for efficient bulk farm data entry.
 -----------------------------------------------------------------------------------------------
 This application is ideal for farmers, agri-entrepreneurs, and researchers seeking a unified, intelligent platform for smart agriculture management in India.
+
+-----------------------------------------------------------------------------------------------
+**Dashboard**
+![image alt](Dashboard_Farm_management_system.png)
+-----------------------------------------------------------------------------------------------
+***Farm Registration**
+![image alt](Farm_registration_FMS.png)
+-----------------------------------------------------------------------------------------------
+**Crop planner**
+![image alt](Crop_planner_FMS.png)
+-----------------------------------------------------------------------------------------------
+**Sidebar**
+![image alt](sidebar_farm_management_system.png)
+-----------------------------------------------------------------------------------------------
+**Developer Hub**
+![image alt](Developer_hub_FMS.png)
+-----------------------------------------------------------------------------------------------
+
+
+>![#f03c15]("If any update kindly refer my linkedIn and comment me any update that I can do here.") 
+
+
+
