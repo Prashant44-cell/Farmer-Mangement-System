@@ -60,7 +60,7 @@ This application is ideal for farmers, agri-entrepreneurs, and researchers seeki
 -----------------------------------------------------------------------------------------------
 
 
->![#f03c15]("If any update kindly refer my linkedIn and comment me any update that I can do here.") 
+**If any update kindly refer my linkedIn and comment me any update that I can do here.**
 
 
 
