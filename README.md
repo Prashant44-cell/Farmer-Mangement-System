@@ -21,7 +21,7 @@ View current crop prices and pest risk levels, along with practical pest managem
 *Crop Rotation Planner:
 Plan effective crop rotations with guidance on crop families, rotation benefits, and best practices.
 
-*Government Schemes & News:
+Government Schemes & News:
 Stay updated with the latest agricultural news and government schemes relevant to Indian farmers.
 Developer Hub & Feedback:
 Learn about the developer and submit feedback directly through the app.
@@ -35,6 +35,24 @@ Uses custom CSS for a visually appealing, user-friendly interface.
 
 *Secure Secrets Handling:
 API keys and sensitive data are managed securely using Streamlit secrets.
+
+
+**Dashboard**
+![image alt](Dashboard_Farm_management_system.png)
+
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+
+
+
+
 
 *Bulk Data Upload:
 Supports CSV uploads for efficient bulk farm data entry.
