@@ -52,6 +52,7 @@ This application is ideal for farmers, agri-entrepreneurs, and researchers seeki
 ![image alt](Crop_planner_FMS.png)
 -----------------------------------------------------------------------------------------------
 **Sidebar**
+-----------------------------------------------------------------------------------------------
 ![image alt](sidebar_farm_management_system.png)
 -----------------------------------------------------------------------------------------------
 **Developer Hub**
