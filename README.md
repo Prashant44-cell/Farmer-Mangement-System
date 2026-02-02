@@ -1,4 +1,4 @@
-🌾 Farmer Management 
+🌾 Farmer Management System
 -----------------------------------------------------------------------------------------------
 FarmSmart Analytics is a comprehensive, interactive Streamlit-based web application designed to empower farmers and agricultural professionals with data-driven insights for sustainable farm management. The platform integrates real-time weather, soil health, crop market prices, pest risk, government schemes, and AI-powered recommendations to help users make informed decisions and improve crop yield and sustainability.
 
